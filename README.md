@@ -5,7 +5,7 @@
 **Author:** Arlex Orlando Murcia Mena
 **Status:** Patent Pending | Active Development
 
----
+--- 
 
 ## 🚀 Overview
 The **Structural Alignment Risk Scoring (StARS)** framework is a proprietary diagnostic architecture designed to quantify and regulate entropy in complex sociotechnical systems (e.g., hospitals, financial institutions, AI models).
